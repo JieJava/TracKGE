@@ -159,7 +159,7 @@ nltk==3.8.1
 nodeenv==1.8.0
 notebook @ file:///croot/notebook_1668179881751/work
 notebook_shim @ file:///croot/notebook-shim_1668160579331/work
-numpy==1.21.5
+numpy==1.23.5
 numpydoc==1.5.0
 nvidia-cublas-cu11==11.10.3.66
 nvidia-cuda-nvrtc-cu11==11.7.99
@@ -296,17 +296,17 @@ thop==0.1.1.post2209072238
 threadpoolctl==3.1.0
 tifffile==2021.11.2
 timm==0.6.12
-tokenizers==0.13.2
+tokenizers==0.12.1
 tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
 toolz @ file:///croot/toolz_1667464077321/work
-torch==1.13.1
+torch==1.7.1+cu110
 torchmetrics==0.11.4
 torchsummary==1.5.1
 torchvision==0.14.1
 tornado @ file:///opt/conda/conda-bld/tornado_1662061693373/work
 tqdm @ file:///opt/conda/conda-bld/tqdm_1664392687731/work
 traitlets @ file:///croot/traitlets_1671143879854/work
-transformers==4.27.1
+transformers==4.23.2
 typed-ast==1.5.4
 typer==0.7.0
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1678559861143/work
